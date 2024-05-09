@@ -32,8 +32,8 @@ print("The number of words are in the file is ",num)
 ```
 
 ### OUTPUT:
-![image](https://github.com/Kannan-S-coder/Word-Count/assets/147120710/2a0f9498-c29c-40e3-937f-3e0624262331)
-
+![WhatsApp Image 2024-05-09 at 05 44 08_9f60a394](https://github.com/Kannan-S-coder/Word-Count/assets/147120710/775b9ba0-c643-4302-ab37-1fa3b64f01c0)
+![image](https://github.com/Kannan-S-coder/Word-Count/assets/147120710/b79319f2-55b0-470a-a840-0271a960488a)
 
 
 ## RESULT:
